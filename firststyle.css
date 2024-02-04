@@ -1,0 +1,76 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+}
+h2{
+    color: blue;
+    font-size: 25px;
+}
+body{
+    overflow-x: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.main1{
+    padding: 20px 20px;
+    width: 50%;
+}
+.first{
+    text-align: center;
+}
+.second{
+    margin-top: 10px;
+    background-color: rgba(28, 245, 28, 0.541);
+    padding: 20px 20px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+.second1{
+    display: flex;
+    
+}
+.second3{
+    padding-top: 3px;
+}
+.fa-check{
+    padding: 5px;
+    border-radius: 50%;
+    background-color: green;
+    color: white;
+}
+.second1 p{
+    padding-right: 10px;
+}
+.third{
+    margin-top: 10px;
+    background-color: rgba(255, 154, 154, 0.726);
+    padding: 20px 20px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+.third .fa-check{
+    background-color: rgb(172, 11, 11);
+}
+.fourth{
+    margin-top: 10px;
+    background-color:   rgba(241, 241, 112, 0.74);
+    padding: 20px 20px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+.fourth .fa-check{
+    background-color: rgba(71, 71, 7, 0.705);
+}
+.fifth{
+    margin-top: 10px;
+    background-color: rgb(211, 238, 248);
+    padding: 20px 20px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
